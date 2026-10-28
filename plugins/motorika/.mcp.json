@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "motorika": {
+      "command": "npx",
+      "args": ["-y", "motorika@0.1.0"]
+    }
+  }
+}

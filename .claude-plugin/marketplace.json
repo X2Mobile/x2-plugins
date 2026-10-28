@@ -1,0 +1,15 @@
+{
+  "name": "x2mobile",
+  "description": "Public Claude Code plugins from X2 Mobile.",
+  "owner": {
+    "name": "X2 Mobile",
+    "email": "laszlo.csiki@x2mobile.net"
+  },
+  "plugins": [
+    {
+      "name": "motorika",
+      "source": "./plugins/motorika",
+      "description": "Motorika: fast, reliable Chrome control for AI agents over MCP (tabs, forms, clicks, video frames, headed or headless). Runs the motorika npm package with npx."
+    }
+  ]
+}

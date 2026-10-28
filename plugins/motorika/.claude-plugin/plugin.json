@@ -1,0 +1,11 @@
+{
+  "name": "motorika",
+  "displayName": "Motorika",
+  "version": "0.1.0",
+  "description": "Fast, reliable Chrome control for AI agents over MCP: tabs, forms, clicks, video frames, headed or headless. Runs the motorika npm package with npx; needs Node >= 20 and an installed Google Chrome.",
+  "author": { "name": "X2 Mobile", "email": "laszlo.csiki@x2mobile.net" },
+  "homepage": "https://github.com/X2Mobile/motorika-mcp",
+  "repository": "https://github.com/X2Mobile/motorika-mcp",
+  "license": "MIT",
+  "keywords": ["browser", "chrome", "mcp", "automation", "playwright"]
+}
